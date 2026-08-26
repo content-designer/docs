@@ -22,17 +22,7 @@
       "check-a-receipt",
       "export-signed-history",
       "timestamps",
-      "what-it-proves",
-      {
-        "group": "Untitled Group",
-        "pages": []
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index"
-        ]
-      }
+      "what-it-proves"
     ],
     "global": {
       "anchors": [
